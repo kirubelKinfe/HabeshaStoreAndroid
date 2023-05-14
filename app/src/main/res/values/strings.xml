@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habesha Store</string>
+    <string name="details">Input Type: 3.5mm stereo jack
+        Other Features: Bluetooth, Foldable, Noise
+        Isolation, Stereo, Stereo Bluetooth, Wireless
+        Form Factor: On-Ear
+        Connections: Bluetooth, Wireless
+        Speaker Configurations: Stereo</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
